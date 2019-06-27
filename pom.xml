@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>uk.ac.ebi.ddi</groupId>
 	<artifactId>springboot-base-master</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>DDI master pom file</name>
@@ -70,7 +70,7 @@
 		<connection>scm:git:github.com/OmicsDI/springboot-base-master.git</connection>
 		<developerConnection>scm:git:git@github.com:OmicsDI/springboot-base-master.git</developerConnection>
 		<url>https://github.com/OmicsDI/springboot-base-master.git</url>
-		<tag>springboot-base-master-1.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<profiles>
